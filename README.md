@@ -26,7 +26,7 @@ I am currently following a rigorous, disciplined roadmap to specialize in **Edge
 ---
 
 ### 📫 Connect with me:
-* **LinkedIn:** [linkedin.com/in/esmanuryararli](https://linkedin.com/in/esmanuryararli) (Linkini buraya ekleyebilirsin)
+* **LinkedIn:** [linkedin.com/in/esmanuryararli](https://linkedin.com/in/esmanuryararli) 
 * **Location:** Malatya, Turkey 🇹🇷 ✈️ Netherlands 🇳🇱
 
 <!--
