@@ -6,7 +6,7 @@ I am a **Computer Engineering** student at İnönü University, dedicated to bui
 ---
 
 ### 🛠️ My Engineering Toolkit
-* **Languages:** Python (AI Focus), Java (Academic & Logic)
+* **Languages:** Python (AI Focus), Java (Academic & Logic), C (System Architecture & Performance)
 * **Libraries:** NumPy, Matplotlib, Pillow (Visualizing the Matrix)
 * **Tools:** Git, GitHub, VS Code
 * **Interests:** Affective Computing, Generative AI, Digital Human Design
